@@ -1,0 +1,17 @@
+.container{
+  background-color: aqua;
+  padding: 1% 0;
+  text-align:center;
+  row-gap: 0;
+  line-height: 0;
+  font-size: 0;
+}
+
+.box{
+ background-color: white; 
+ display: inline-block;
+  }
+
+.select{
+  background-color: black;
+}
